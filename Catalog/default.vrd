@@ -3,7 +3,7 @@
 		xmlns:xs="http://www.w3.org/2001/XMLSchema"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		base="/Abiturient"
-		ib="File=&quot;D:\1C-Abiturient\InfoBase_Main&quot;;">
+		ib="File=&quot;C:\Server\InfoBase_Main&quot;;">
 	<ws enable="false"/>
 	<standardOdata enable="true"
 			reuseSessions="autouse"

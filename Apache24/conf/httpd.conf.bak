@@ -408,6 +408,15 @@ Alias "/Kreatur" "C:/Server/Catalog/"
     ManagedApplicationDescriptor "C:/Server/Catalog/default.vrd"
 </Directory>
 
+# 1c publication
+Alias "/AbiturientMobile" "C:/Server/Catalog/"
+<Directory "C:/Server/Catalog/">
+    AllowOverride All
+    Options None
+    Require all granted
+    DirectoryIndex 1cema.xml
+</Directory>
+
 
 
 <IfModule headers_module>
