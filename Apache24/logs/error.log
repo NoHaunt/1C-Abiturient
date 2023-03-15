@@ -914,3 +914,21 @@ pm_winnt:notice] [pid 2328:tid 760] AH00455: Apache/2.4.41 (Win32) configured --
 [Wed Mar 15 00:16:25.464236 2023] [mpm_winnt:notice] [pid 2328:tid 760] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Wed Mar 15 00:16:27.478928 2023] [mpm_winnt:notice] [pid 14372:tid 548] AH00364: Child: All worker threads have exited.
 [Wed Mar 15 00:16:27.787955 2023] [mpm_winnt:notice] [pid 2328:tid 760] AH00430: Parent: Child process 14372 exited successfully.
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 1848:tid 776] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 10:51:04.758357 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 10:51:04.759360 2023] [core:notice] [pid 1848:tid 776] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 10:51:04.763374 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00418: Parent: Created child process 5420
+[Wed Mar 15 10:51:05.207351 2023] [mpm_winnt:notice] [pid 5420:tid 664] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 11:04:31.510404 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 11:04:33.523584 2023] [mpm_winnt:notice] [pid 5420:tid 664] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 11:04:33.735787 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00430: Parent: Child process 5420 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 13808:tid 716] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 11:04:37.586580 2023] [mpm_winnt:notice] [pid 13808:tid 716] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 11:04:37.586580 2023] [core:notice] [pid 13808:tid 716] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 11:04:37.590594 2023] [mpm_winnt:notice] [pid 13808:tid 716] AH00418: Parent: Created child process 3044
+[Wed Mar 15 11:04:38.026039 2023] [mpm_winnt:notice] [pid 3044:tid 608] AH00354: Child: Starting 64 worker threads.
