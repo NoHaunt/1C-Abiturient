@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-93cd3022-57fc-4ada-abae-165232efcb38
+e348651e-3663-4d9c-b2bf-69e86e62ea75
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"337-2",1},
@@ -22,4 +22,19 @@
 {4,"_$Transaction$_.Commit",10},
 {3,"BackgroundJob",3},
 {4,"_$PerformError$_",11},
-{4,"_$Data$_.Update",12}
+{4,"_$Data$_.Update",12},
+{4,"_$Session$_.AuthenticationError",13},
+{1,a66905b9-aca5-479f-ad6f-d5db4ca3de90,"Альберт",2},
+{13,2,2},
+{4,"_$User$_.New",14},
+{3,"WebClient",4},
+{1,0eb4debe-f4dd-4f42-ac83-6154638da275,"reg_user",3},
+{3,"HTTPServiceConnection",5},
+{1,370a97a3-a944-4009-8fde-38784a85377c,"afaf",4},
+{4,"_$InfoBase$_.DBConfigUpdateError",15},
+{5,bc6b6505-983d-46e3-9ce7-9d299d634f28,"Справочник.Мероприятия",2},
+{4,"_$User$_.Delete",16},
+{1,b2500fca-b710-4f4f-a36d-bfb4535bddb8,"afaf",5},
+{4,"_$User$_.NewError",17},
+{4,"_$Transaction$_.Rollback",18},
+{1,41265397-c0c0-45dd-a90b-2886f65ac42d,"asgvdfgsdg",6}
